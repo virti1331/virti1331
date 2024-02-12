@@ -6,7 +6,7 @@ I am an exceptional app developer along with web developer with a deep passion f
 
 🌐 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/virti-doshi-497943251/)  
-- [Email](virtidoshi1331@gmail.com)
+- Email: virtidoshi1331@gmail.com
 Happy coding! 🚀
 <!---
 virti1331/virti1331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
