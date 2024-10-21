@@ -6,8 +6,8 @@ I am an exceptional app developer along with web developer with a deep passion f
 
 🌐 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/virti-doshi-497943251/)  
-- Email: virtidoshi1331@gmail.com
-- https://virti1331.github.io/Virti-s-Portfolio/
+- [Email](virtidoshi1331@gmail.com)
+- [Portfolio](https://virti1331.github.io/Portfolio/)
 
 - Happy coding! 🚀
 <!---
