@@ -8,7 +8,8 @@ I am an exceptional app developer along with web developer with a deep passion f
 - [LinkedIn](https://www.linkedin.com/in/virti-doshi-497943251/)  
 - Email: virtidoshi1331@gmail.com
 - https://virti1331.github.io/Virti-s-Portfolio/
--Happy coding! 🚀
+-
+- Happy coding! 🚀
 <!---
 virti1331/virti1331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
