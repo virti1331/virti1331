@@ -4,7 +4,13 @@
 
 ---
 
-## 🚀 About Me
+## 🎮 Play with My GitHub Avatar!
+> Click & Control me! (Try pressing arrow keys!)
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/285475/screenshots/5179169/media/1e0177027b007dcff0b64f599c5108ff.gif" width="200"/>
+</p>
+
 ```js
 const Virti = {
     specialization: ["App Development", "Web Development", "3D Modeling"],
@@ -20,16 +26,10 @@ const Virti = {
 
 ---
 
-## 📜 Experience
-### 🏢 CodSoft (Dec 2023 - Jan 2024)
-- Developed user-friendly mobile applications with efficient functionality.
-- Improved app performance & ensured seamless user experiences.
-- Integrated cutting-edge technologies for enhanced features.
+## 🎮 My Game Zone
+> Here's a fun little game I built! Click below to play!
 
-### 🎮 Meshcraft (July 2024 - Oct 2024)
-- Designed high-quality 3D models for games using Blender.
-- Optimized assets for seamless game engine integration.
-- Focused on enhancing gameplay with visually appealing details.
+[![Snake Game](https://img.shields.io/badge/Play%20Snake%20Game-%23ff2e64?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Platane/snk)
 
 ---
 
