@@ -35,8 +35,6 @@
 ---
 
 
-<p align="center">💻 Keep innovating, keep coding! 🚀</p>
-
 
 <h2 align="center">⚡ Tech Playground</h2>
 <p align="center">
