@@ -1,70 +1,56 @@
 ### Hey there! 👋 I'm [Virti Doshi](https://github.com/virti1331/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2E64&width=435&lines=App+Developer+%7C+Web+Developer;3D+Model+Designer+%7C+Tech+Enthusiast;Pushing+Limits+of+Innovation!;Let's+Build+Something+Epic!)
-
----
-
-## 🎮 Welcome to Virti's Cyber Quest!
-> Hack your way through the matrix and unlock my skills! 🚀
-
-```
-You are inside Virti's GitHub Terminal...
-What will you do next?
-
-1️⃣ Type 'cd skills' → To uncover my tech stack.
-2️⃣ Type 'cd connect' → To link up with me.
-3️⃣ Type 'start quest' → To begin the adventure!
-
-_> Waiting for input..._
-```
-
-💡 **Hint:** Click below to interact! 🔻
-
-[![Start Quest](https://img.shields.io/badge/Start%20Quest-%23ff2e64?style=for-the-badge&logo=terminal&logoColor=white)](https://github.com/virti1331/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=FF2E64&center=true&vCenter=true&lines=App+Developer;Web+Developer;3D+Model+Designer;Tech+Innovator"/>
+</p>
 
 ---
 
 ## 🚀 Who Am I?
-```js
-const Virti = {
-    specialization: ["App Development", "Web Development", "3D Modeling"],
-    skills: ["JavaScript", "React.js", "Android Development", "Blender 3D"],
-    motto: "Code. Create. Innovate.",
-    vibe: "Always ready to disrupt & build cool stuff!"
-};
-```
 
-💻 **Expertise:** Full-Stack Dev | 3D Game Asset Designer | Tech Explorer  
-🛠 **Currently Experimenting With:** Ethical Hacking | AI-Powered Interfaces  
-🔥 **Mission:** Build futuristic, mind-blowing apps!  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-e36c-4f36-80b6-64a8741533c5.gif" width="500"/>
+</p>
+
+🔹 **Building immersive digital experiences** 💻🎨  
+🔹 **Passionate about technology & creative innovation** 🚀  
+🔹 **Bringing ideas to life with modern tools & frameworks** 🔧
 
 ---
 
-## 🎮 Mini Game - Escape the Matrix! 🕶️
-> Click the button below to enter the **matrix** and chase the **glitch!**
-
-[![Enter the Matrix](https://img.shields.io/badge/Enter%20The%20Matrix-%23ff2e64?style=for-the-badge&logo=cyberpunk2077&logoColor=white)](https://github.com/Platane/snk)
-
----
-
-## 🏆 **Tech Stack & Arsenal**
+## 🔥 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,php,mysql,sqlite,androidstudio,bootstrap,blender" />
 </p>
 
 ---
 
-## 🔥 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virti-doshi-497943251/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff2e64?style=for-the-badge&logo=github&logoColor=white)](https://virti1331.github.io/Portfolio/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virtidoshi10@gmail.com)
+## 🎭 Animated Showcase
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 🕶️ **Fun Fact**
-🎯 "I don't just code, I craft digital realities!"  
-💡 Always up for hacking, building, and disrupting the norm!
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/virti-doshi-497943251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://virti1331.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff2e64?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:virtidoshi10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">💻 Enter. Code. Dominate. 🚀</p>
+## 🎇 Fun Fact
+🎯 "Turning ideas into digital magic!"  
+💡 Always exploring new dimensions of creativity!
+
+---
+
+<p align="center">💻 Keep innovating, keep coding! 🚀</p>
