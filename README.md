@@ -1,56 +1,62 @@
-### Hey there! 👋 I'm [Virti Doshi](https://github.com/virti1331/)
+### Hi there, I'm [Virti Doshi](https://github.com/virti1331)! 👋  
 
+![Profile Views](https://komarev.com/ghpvc/?username=virti1331&label=Profile%20Views&color=blue&style=flat)  
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+```javascript
+const virti = {
+    code: ["Java", "HTML", "CSS", "PHP", "JavaScript", "Bash"],
+    frameworks: ["Node.js", "React.js", "Bootstrap", "Android SDK"],
+    database: ["MySQL", "Oracle", "SQLite"],
+    tools: ["Blender", "Git", "VS Code", "Google Cloud"],
+    interests: ["App Development", "3D Modeling", "Machine Learning"],
+};
+```
+
+🔭 Currently pursuing **B.E. in Information Technology** at **K.J. Somaiya School of Engineering**  
+🎯 Passionate about creating **innovative applications** and **game assets**  
+🌱 Constantly learning **new technologies** and **exploring AI/ML**  
+💡 Fun fact: I turn caffeine into **code & creativity** ☕
+
+---
+
+<h2 align="center">✨ Tech Stack</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=FF2E64&center=true&vCenter=true&lines=App+Developer;Web+Developer;3D+Model+Designer;Tech+Innovator"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,php,js,bash,nodejs,react,bootstrap,androidstudio,mysql,sqlite,blender,git"/>
 </p>
 
 ---
 
-## 🚀 Who Am I?
+<h2 align="center">🌟 Projects</h2>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-e36c-4f36-80b6-64a8741533c5.gif" width="500"/>
-</p>
+📌 **News Zone**  
+_A customizable news app with translucent vertical menus and a dark theme._  
+**🔗 [GitHub Repository](#)**  
 
-🔹 **Building immersive digital experiences** 💻🎨  
-🔹 **Passionate about technology & creative innovation** 🚀  
-🔹 **Bringing ideas to life with modern tools & frameworks** 🔧
-
----
-
-## 🔥 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,php,mysql,sqlite,androidstudio,bootstrap,blender" />
-</p>
+📌 **Alarm Clock**  
+_A multi-alarm system with customizable tones and sleek UI._  
+**🔗 [GitHub Repository](#)**  
 
 ---
 
-## 🎭 Animated Showcase
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=virti1331&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virti1331&theme=radical" height="160px"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/virti-doshi-497943251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://virti1331.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-%23ff2e64?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:virtidoshi10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://github.com/virti1331"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:virtidoshi10@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-## 🎇 Fun Fact
-🎯 "Turning ideas into digital magic!"  
-💡 Always exploring new dimensions of creativity!
-
----
-
-<p align="center">💻 Keep innovating, keep coding! 🚀</p>
+⚡ **Let's innovate and build something awesome together!** 🚀
